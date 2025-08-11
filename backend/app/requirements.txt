@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+yfinance
+pandas
+scikit-learn
+joblib
+python-multipart
